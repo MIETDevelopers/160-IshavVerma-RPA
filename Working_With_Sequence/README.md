@@ -7,7 +7,7 @@
 03-Subtraction.xaml
 -In subtraction sequence two inputs are taken from user and stored in each variable. And then subtracted and assigned to another variables and then carried forward to message box to display the output.
 
-04-Multition.xaml
+04-Multiplication.xaml
 -In multition sequence two inputs are taken from user and stored in each variable. And then multiplied and assigned to another variables and then carried forward to message box to display the output.
 
 05-Division.xaml
