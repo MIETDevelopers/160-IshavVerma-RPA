@@ -1,2 +1,5 @@
 01-ReadingDataFromExcel.xaml
 -Excel application scope is a activity that deals with working with excel (.xlsx) files. In this sequence we are extracing data from excel for which excel application scope is used inside this another sequence is created which has read range activity whcih would read all the data from excel sheet & store it to a variable (data table) and it is carried forward to a for each row activity which would help to sort data from different rows. Again it is carried forward to write line to print elements.
+
+02-ReadingValuesFromExcel.xaml
+-The main purpose of this sequence is to get total sum of students from data stored in excel. In this sequence excel application scope is used to specify the targeted excel (.xlsx) file and inside this activity read range activity is used to read the file and then using assign activity row(1), row(2) & row(3)'s cell value get assigned to a variable and later on carried to another assign activity to sum them all & carried forward to a write line activity to print names and total marks.
