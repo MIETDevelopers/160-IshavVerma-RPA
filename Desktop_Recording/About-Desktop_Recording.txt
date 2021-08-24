@@ -1,5 +1,4 @@
 # Desktop_Recording
-
 Desktop record activity is used to record the actions performed on desktop like opening applications, clicking options & many more.
 
 ### 01-Writing_UserDefinedText_in_Notepad.xaml
