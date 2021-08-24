@@ -1,8 +1,8 @@
-#01-ReadingDataFromExcel.xaml
+# 01-ReadingDataFromExcel.xaml
 -Excel application scope is a activity that deals with working with excel (.xlsx) files. In this sequence we are extracing data from excel for which excel application scope is used inside this another sequence is created which has read range activity whcih would read all the data from excel sheet & store it to a variable (data table) and it is carried forward to a for each row activity which would help to sort data from different rows. Again it is carried forward to write line to print elements.
 
-#02-ReadingValuesFromExcel.xaml
+# 02-ReadingValuesFromExcel.xaml
 -The main purpose of this sequence is to get total sum of students from data stored in excel. In this sequence excel application scope is used to specify the targeted excel (.xlsx) file and inside this activity read range activity is used to read the file and then using assign activity row(1), row(2) & row(3)'s cell value get assigned to a variable and later on carried to another assign activity to sum them all & carried forward to a write line activity to print names and total marks.
 
-#03-Same&Different.xaml
+# 03-Same&Different.xaml
 -In this sequence we are taking a real world example, to check whether the first and last name of a person are similar or not in data (excel file). Excel application scope is used to sepcify the excel target file, then inside excel application scope activity read range activity is used to read the specific sheet in excel file and convert it into a variable of Data Table data type. And this variable is carried forward to for each row activity using which we can extract data from each row of excel file's sheet. In excel in row(0) there is first name stored & in row(1) last name is store, so by using assign activity we assigned these to a variable and these variables are carried to a if activity which determines whether the first and last name is similar or not and by usng write cell activity it will mention in the C column whether it is 'Similar' or not and for write cell with due to change in each row due to for each row activity a counter variable is assigned with the help of which write cell can write in precise cell.
