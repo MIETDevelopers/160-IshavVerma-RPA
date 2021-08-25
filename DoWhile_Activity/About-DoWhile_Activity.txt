@@ -1,5 +1,5 @@
 # DoWhile_Activity
 Do While activity is also a form of loop that will keep on continuing itself untill the mentioned condion(s) are satisfied. 
 
-### 01-DoWhile_&_InputDialog.xaml
+### 01-DoWhile_PrintValues.xaml
 -In this sequence there is a predefined value assigned to a variable and once that variable is carried into DoWhile it will keep on increasing it's value by 1 & printing that, this will keep on repeating until the mentioned condition in DoWhile is staisfied that could be like limiting the values to be printed as per this sequence it would print upto 10.
