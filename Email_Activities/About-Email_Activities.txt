@@ -1,0 +1,4 @@
+# Email_Activities
+
+### 01-Send_SMTPMailMessage.xaml
+- In this activity Send SMTP Mail Message activity is used to send mail. It consists of various 
