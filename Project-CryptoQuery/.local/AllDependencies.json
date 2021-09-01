@@ -1599,11 +1599,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Project-01",
-      "projectName": "Project-01",
-      "projectPath": "E:\\Softwares\\Git_Repository\\Temp-Files\\Project-CryptoQuery\\.local",
+      "projectUniqueName": "Project-CryptoQuery",
+      "projectName": "Project-CryptoQuery",
+      "projectPath": "E:\\Softwares\\Git_Repository\\160-IshavVerma-RPA\\Project-CryptoQuery\\.local",
       "packagesPath": "C:\\Users\\ishu0\\.nuget\\packages\\",
-      "outputPath": "E:\\Softwares\\Git_Repository\\Temp-Files\\Project-CryptoQuery\\.local"
+      "outputPath": "E:\\Softwares\\Git_Repository\\160-IshavVerma-RPA\\Project-CryptoQuery\\.local"
     },
     "frameworks": {
       "net461": {

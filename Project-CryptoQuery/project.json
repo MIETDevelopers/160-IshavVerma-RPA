@@ -1,5 +1,5 @@
 {
-  "name": "Project-01",
+  "name": "Project-CryptoQuery",
   "description": "",
   "main": "Main.xaml",
   "dependencies": {
@@ -29,7 +29,8 @@
     "libraryOptions": {
       "includeOriginalXaml": false,
       "privateWorkflows": []
-    }
+    },
+    "fileInfos": []
   },
   "expressionLanguage": "VisualBasic"
 }
